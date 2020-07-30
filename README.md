@@ -1,7 +1,7 @@
 # Guante Inclusivo
 
+<img src="/img/guante1.jpeg" alt="Guante1" width="350px" height="550px">
 ### DESCRIPCIÓN BREVE
-<img src="/img/guante1.jpeg" alt="Guante1" width="400px" height="600px">
 El siguiente trabajo muestra el desarrollo del trabajo entregable obligatorio de la materia Taller de tecnologías 
 de la Licenciatura en Sistemas de la Universidad ORT del Uruguay (Grupo N1A). 
 Se realizar un guante traductor de lenguaje de señas mediante Arduino. (Paula Olivera, Juan José Reboledo López, Ernesto Speranza)
@@ -46,9 +46,9 @@ Las posibles mejoras a hacerle al proyecto se relacionan, en primer lugar, con a
 Potencialmente, cómo ideas de mejora, el Guante inclusivo podría tener conectividad con un teléfono móvil y traducir no solo a texto sino a audio lo que el usuario busca comunicar.
 
 ### Imágenes:
-![Guante1](/img/guante1.jpeg)
-![Guante2](/img/guante2.jpeg)
-![Guante3](/img/guante3.jpeg)
+<img src="/img/guante1.jpeg" alt="Guante1" width="350px" height="550px">
+<img src="/img/guante2.jpeg" alt="Guante2" width="550px" height="350px">
+<img src="/img/guante3.jpeg" alt="Guante3" width="550px" height="350px">
 
 Links a los videos:
 
