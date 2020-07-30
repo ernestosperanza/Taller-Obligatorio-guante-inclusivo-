@@ -1,4 +1,4 @@
-# Guante-inclusivo
+# Guante Inclusivo
 
 ### DESCRIPCIÓN BREVE
 El siguiente trabajo muestra el desarrollo del trabajo entregable obligatorio de la materia Taller de tecnologías 
