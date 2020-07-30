@@ -1,6 +1,7 @@
 # Guante Inclusivo
 
 <img src="/img/guante1.jpeg" alt="Guante1" width="350px" height="550px">
+
 ### DESCRIPCIÓN BREVE
 El siguiente trabajo muestra el desarrollo del trabajo entregable obligatorio de la materia Taller de tecnologías 
 de la Licenciatura en Sistemas de la Universidad ORT del Uruguay (Grupo N1A). 
