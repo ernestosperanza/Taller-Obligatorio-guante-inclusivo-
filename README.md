@@ -48,10 +48,10 @@ Potencialmente, cómo ideas de mejora, el Guante inclusivo podría tener conecti
 
 Links a los videos:
 
-[Video de la problemática](https://www.youtube.com/watch?v=-tk456KQ93I&feature=youtu.be)
-[Video del demo](https://www.youtube.com/watch?v=2XtYoKZ3WLk)
+[Video de la problemática](https://www.youtube.com/watch?v=-tk456KQ93I&feature=youtu.be) <br/>
+[Video del demo](https://www.youtube.com/watch?v=2XtYoKZ3WLk) <br/>
 
 
 
-Referencias:
+Referencias: <br/>
 [[1] Orgnización mundial de la salud, «who.int,» 2011](https://www.who.int/disabilities/world_report/2011/report/en/)
