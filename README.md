@@ -1,7 +1,7 @@
 # Guante Inclusivo
 
 ### DESCRIPCIÓN BREVE
-![Guante1](/img/guante1.jpeg)
+<img src="/img/guante1.jpeg" alt="Guante1" width="600px" height="800px">
 El siguiente trabajo muestra el desarrollo del trabajo entregable obligatorio de la materia Taller de tecnologías 
 de la Licenciatura en Sistemas de la Universidad ORT del Uruguay (Grupo N1A). 
 Se realizar un guante traductor de lenguaje de señas mediante Arduino. (Paula Olivera, Juan José Reboledo López, Ernesto Speranza)
