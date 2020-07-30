@@ -46,7 +46,6 @@ Las posibles mejoras a hacerle al proyecto se relacionan, en primer lugar, con a
 Potencialmente, cómo ideas de mejora, el Guante inclusivo podría tener conectividad con un teléfono móvil y traducir no solo a texto sino a audio lo que el usuario busca comunicar.
 
 ### Imágenes:
-<img src="/img/guante1.jpeg" alt="Guante1" width="350px" height="550px">
 <img src="/img/guante2.jpeg" alt="Guante2" width="550px" height="350px">
 <img src="/img/guante3.jpeg" alt="Guante3" width="550px" height="350px">
 
